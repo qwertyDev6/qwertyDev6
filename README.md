@@ -41,7 +41,7 @@ Saya adalah seorang **Game Developer & Script Modder** berusia **17 tahun** yang
 
 * 📜 **HackClub GameDev Competition Certificate:**  
   <a href="https://drive.google.com/file/d/1uvghFOlzEOO_Yu2GRUznly6yNzsAIVOf/view" target="_blank">
-    <img src="https://raw.githubusercontent.com/USERNAME_GITHUB_KAMU/NAMA_REPOSITORY_KAMU/main/certificate.png" alt="Sertifikat HackClub GameDev" width="80%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
+    <img src="https://raw.githubusercontent.com/qwertyDev6/NAMA_REPOSITORY_KAMU/main/certificate.png" alt="Sertifikat HackClub GameDev" width="80%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
   </a>  
   *Sertifikat resmi atas partisipasi dan penyelesaian proyek game pada ajang kompetisi HackClub.*
 
