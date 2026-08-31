@@ -48,7 +48,7 @@ Saya adalah seorang **Game Developer & Script Modder** berusia **17 tahun** yang
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks**  
-![PAWN](https://img.shields.io/badge/PAWN_Yrs-gray?style=for-the-badge)
+![PAWN](https://img.shields.io/badge/PAWN-gray?style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
